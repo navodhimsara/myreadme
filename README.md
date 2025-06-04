@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navod Himsara</h1>
 <h3 align="center">A passionate Fullstack developer from Srilanka</h3>
 
-- 🌱 I’m currently learning **java Istitue Srilanka**
+- 🌱 I’m currently learning at java Institue Srilanka**
 
 - 📫 How to reach me **nhanavodhimsara77@gmail.com**
 
